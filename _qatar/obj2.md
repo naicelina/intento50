@@ -12,5 +12,5 @@ layout: qatar_item
 collection: qatar
 thumbnail: "homar-plenas5.jpg"
 full: "homar-plenas5.jpg"
-manifest: "/img/derivatives/iiif/obj2/manifest.json"
+
 ---
