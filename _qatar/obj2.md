@@ -10,7 +10,5 @@ source: https://commons.wikimedia.org/wiki/File:Unknown,_Egypt_or_Syria,_14th_Ce
 order: '01'
 layout: qatar_item
 collection: qatar
-thumbnail: "homar-plenas5.jpg"
-full: "homar-plenas5.jpg"
-
----
+thumbnail: "lilo-and-stitch-editorial-design-free-vector.jpg"
+full: "lilo-and-stitch-editorial-design-free-vector.jpg"
