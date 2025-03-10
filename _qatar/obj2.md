@@ -10,5 +10,6 @@ source:
 order: '01'
 layout: qatar_item
 collection: qatar
-thumbnail: "lilo-and-stitch-editorial-design-free-vector.jpg"
-full: "lilo-and-stitch-editorial-design-free-vector.jpg"
+thumbnail: "/img/lilo-and-stitch-editorial-design-free-vector.jpg"
+full: "/img/lilo-and-stitch-editorial-design-free-vector.jpg"
+---
